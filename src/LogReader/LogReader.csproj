@@ -9,6 +9,6 @@
         <LangVersion>default</LangVersion>
     </PropertyGroup>
     <ItemGroup>
-      <PackageReference Include="FatCat.Toolkit" Version="1.0.252" />
+      <PackageReference Include="FatCat.Toolkit" Version="1.0.253" />
     </ItemGroup>
 </Project>
