@@ -1,4 +1,4 @@
-namespace Tests.FatCat.LogReader;
+namespace FatCat.Tests.LogReader;
 
 public class PlaceHolderTests
 {
