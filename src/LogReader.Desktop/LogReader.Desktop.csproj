@@ -7,6 +7,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
     <LangVersion>default</LangVersion>
+    <RootNamespace>FatCat.LogReader.Desktop</RootNamespace>
+    <AssemblyName>FatCatLogReaderDesktop</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSharpier.MsBuild" Version="1.2.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
 </Project>

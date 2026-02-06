@@ -6,6 +6,8 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>disable</Nullable>
 		<LangVersion>default</LangVersion>
+		<RootNamespace>FatCat.OneOff</RootNamespace>
+		<AssemblyName>FatCatOneOff</AssemblyName>
 	</PropertyGroup>
 	<PropertyGroup>
 		<NoWarn>$(NoWarn);NETSDK1206</NoWarn>
