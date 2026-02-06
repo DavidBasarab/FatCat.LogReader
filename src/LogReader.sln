@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader.Desktop", "LogRea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader.Razor", "LogReader.Razor\LogReader.Razor.csproj", "{ABE4975A-7359-4686-8573-E592996104A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader.Web", "LogReader.Web\LogReader.Web.csproj", "{C3B3FB39-6A21-4CC9-9E98-2A610310D90C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{ABE4975A-7359-4686-8573-E592996104A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE4975A-7359-4686-8573-E592996104A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE4975A-7359-4686-8573-E592996104A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B3FB39-6A21-4CC9-9E98-2A610310D90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B3FB39-6A21-4CC9-9E98-2A610310D90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B3FB39-6A21-4CC9-9E98-2A610310D90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B3FB39-6A21-4CC9-9E98-2A610310D90C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
