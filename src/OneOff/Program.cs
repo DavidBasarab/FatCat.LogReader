@@ -2,7 +2,7 @@
 using FatCat.Toolkit.Console;
 using FatCat.Toolkit.Injection;
 
-namespace OneOff;
+namespace FatCat.OneOff;
 
 public static class Program
 {
