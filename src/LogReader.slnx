@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="LogReader.Desktop/LogReader.Desktop.csproj" />
+  <Project Path="LogReader.Razor/LogReader.Razor.csproj" />
+  <Project Path="LogReader.Web/LogReader.Web.csproj" />
+  <Project Path="LogReader/LogReader.csproj" />
+  <Project Path="OneOff/OneOff.csproj" />
+  <Project Path="Tests.LogReader/Tests.LogReader.csproj" />
+</Solution>
