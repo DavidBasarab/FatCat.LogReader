@@ -9,6 +9,6 @@ public class PlaceHolderTests
 
 		var item2 = Faker.RandomInt();
 
-		item1.Should().NotBe(item2);
+		item1.Should().Not.Be(item2);
 	}
 }
