@@ -355,3 +355,7 @@ MigrationBackup/
 *.sln.iml
 .vsCode/
 *appsettings.development.json*
+
+# Claude Code
+.reviews/
+.claude/settings.local.json
